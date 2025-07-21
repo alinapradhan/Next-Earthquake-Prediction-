@@ -1,24 +1,7 @@
-# Next-Earthquake-Prediction-
-This project applies machine learning techniques (Random Forest Regression) to historical earthquake records from India, aiming to predict parameters of future earthquakes (e.g., magnitude, location, depth) using patterns found in past events. The workflow includes data loading, preprocessing, model training, prediction, and evaluation.
-# Next Earthquake Prediction
+# Next-Earthquake-Prediction
 
-Predict earthquakes in India using historical seismic data and machine learning.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-
-## Project Overview
-
-This project applies machine learning techniques (Random Forest Regression) to historical earthquake records from India, aiming to **predict parameters of future earthquakes** (e.g., magnitude, location, depth) using patterns found in past events. The workflow includes data loading, preprocessing, model training, prediction, and evaluation[1][3][6].
+This project applies machine learning techniques (Random Forest Regression) to historical earthquake records from India, aiming to **predict parameters of future earthquakes** (e.g., magnitude, location, depth) using patterns found in past events. The workflow includes data loading, preprocessing, model training, prediction, and evaluation.
 
 ## Data Sources
 
