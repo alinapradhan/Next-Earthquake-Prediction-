@@ -82,7 +82,4 @@ This project applies machine learning techniques (Random Forest Regression) to h
 - Extend to real-time prediction pipelines.
 - Add different ML models (e.g., Gradient Boosting, Deep Learning).
 - Integrate more features (soil, population risk).
-- Visualize predictions on an interactive map[1][6].
-
-
-
+- Visualize predictions on an interactive map.
