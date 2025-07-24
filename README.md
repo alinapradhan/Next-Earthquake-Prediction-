@@ -8,7 +8,7 @@ This project applies machine learning techniques (Random Forest Regression) to h
   - Includes columns: Origin Time, Latitude, Longitude, Depth, Magnitude, Location.
 
 ## Installation
-
+ 
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/yourusername/next_earthquake_prediction.git
