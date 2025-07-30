@@ -6,7 +6,7 @@ This project applies machine learning techniques (Random Forest Regression) to h
 
 - **Dataset:** `Indian_earthquake_data.csv`
   - Includes columns: Origin Time, Latitude, Longitude, Depth, Magnitude, Location.
-  
+ 
 ## Installation
  
 1. **Clone the repo:**
