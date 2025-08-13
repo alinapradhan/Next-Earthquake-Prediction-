@@ -5,16 +5,8 @@ This project applies machine learning techniques (Random Forest Regression) to h
 ## Data Sources 
 - **Dataset:** `Indian_earthquake_data.csv`
   - Includes columns: Origin Time, Latitude, Longitude, Depth, Magnitude, Location.
- 
-## Installation
- 
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/yourusername/next_earthquake_prediction.git
-   cd next_earthquake_prediction
-   ```
 
-2. **Set up environment and install dependencies:**
+## **Set up environment and install dependencies:**
 
    Using `pip`:
    ```bash
